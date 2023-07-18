@@ -1,0 +1,35 @@
+.banner{
+    background-image: url(/image/p1.jpg);
+    height: 600px;
+    background-size: cover;
+    position: center;
+    background-repeat: no-repeat;
+}
+.data{
+    color: aliceblue;
+}
+.btn{
+    text-align: center;
+}
+.form table{
+    margin: auto;
+    padding-top: 150px;
+}
+.gender{
+    color: white;
+}
+.mf{
+    color: white;
+}
+.hobbies{
+    color: white;
+}
+.hobbiees{
+    color: white;
+}
+.cars{
+    color: white;
+}
+.carname{
+    color: white;
+}
